@@ -1,5 +1,5 @@
 ### Hi there I'm Hemang Vyas👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalsavalia" alt="dhavalsavalia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vyashemang" alt="vyashemang" /> </p>
 
 <!--
 **vyashemang/vyashemang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/vyashemang](https://github.com/vyashemang)
 - 📝 I regulary write articles on [https://medium.com/@vyashemang](https://medium.com/@vyashemang)
+
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vyashemang&show_icons=true" alt="vyashemang" /> </p>
 
